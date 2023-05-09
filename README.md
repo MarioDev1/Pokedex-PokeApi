@@ -1,11 +1,12 @@
 ﻿# Pokedex-PokeApi
 Front End realizado en HTML - CSS- JS 
 
-Integración de pokeApi a pagina web en donde al buscar por el nombre de un Pokémon, rescatamos los atributos asociados a ese Pokémon desde PokeApi y los traemos a nuestra pagina web. 
+Integración de pokeApi a pagina web en donde al buscar el nombre de un Pokémon, rescatamos las estadisticas asociadas a ese Pokémon desde la PokeApi y los traemos a nuestra pagina web. 
 
 
+Aplicación desplegada en GithubPages => https://mariodev1.github.io/Pokedex-PokeApi/
 
-Código subido a Github en el siguiente enlace. 
+![image](https://github.com/MarioDev1/Pokedex-PokeApi/assets/86576341/67ecdd9d-5798-4992-adc3-4f9c2c2e3220)
 
-Aplicación desplegada en GithubPages => 
 
+![image](https://github.com/MarioDev1/Pokedex-PokeApi/assets/86576341/bf1a174a-2c0f-47ad-9e59-26d64b3d5594)
